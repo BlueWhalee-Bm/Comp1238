@@ -1,4 +1,4 @@
-#NRC
+#Number Row Characters
 - ! (bang)
 - @ (commercial at-sign)
 - $ (dollar sign)
@@ -7,10 +7,12 @@
 - & (and-sign)
 - ( (left parenthesis)
 - ) (right parenthesis)
+- \# (hash)
+- \* (asterisk)
 
 #Link
-- https://www.youtube.com/watch?v=T3QemW7C4OI
-- https://www.youtube.com/watch?v=XxzJtjbrgkc
+- [Running] (https://www.youtube.com/watch?v=T3QemW7C4OI)
+- [Badminton] (https://www.youtube.com/watch?v=XxzJtjbrgkc)
 
 #Emoji
 - :smile:
