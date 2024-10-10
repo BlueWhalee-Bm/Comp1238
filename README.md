@@ -17,3 +17,4 @@
 #Emoji
 - :smile:
 - :computer:
+Lab 6: [CLI commands](docs/cli.md)
